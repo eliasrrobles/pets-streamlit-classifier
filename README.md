@@ -20,17 +20,6 @@ El proyecto demuestra un flujo completo de ML aplicado: preprocesado de datos, m
 
 ---
 
-## 🧠 Tecnologías utilizadas
-
-- Python 3
-- Streamlit
-- Pandas
-- Scikit-learn
-- Joblib
-- JSON
-
----
-
 ## 📂 Estructura del proyecto
 
 ```text
